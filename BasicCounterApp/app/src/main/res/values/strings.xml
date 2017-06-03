@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Counter App</string>
+    <string name="text_value">TEXT FIELD VALUE</string>
+    <string name="click">ClICK TO INCREASE</string>
+</resources>
