@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string-array name="options">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+    <string name="btn">ADD TO LIST</string>
+    <string name="btn3">REMOVE FROM LIST</string>
+</resources>
